@@ -28,7 +28,7 @@ dotnet build
 
 ```bash 
 
-dotnet run --project "Akvelon Task" 
+dotnet run --project "Akvelon.FizzBuzz" 
 
 ``` 
 
