@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Akvelon.FizzBuzz.Tests/Akvelon.FizzBuzz.Tests.csproj" />
+  <Project Path="Akvelon.FizzBuzz/Akvelon.FizzBuzz.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\bin\Debug\net10.0\Akvelon.FizzBuzz.exe
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\bin\Debug\net10.0\Akvelon.FizzBuzz.deps.json
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\bin\Debug\net10.0\Akvelon.FizzBuzz.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\bin\Debug\net10.0\Akvelon.FizzBuzz.dll
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\bin\Debug\net10.0\Akvelon.FizzBuzz.pdb
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\Akvelon.FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\Akvelon.FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\Akvelon.FizzBuzz.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\Akvelon.FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\Akvelon.FizzBuzz.dll
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\refint\Akvelon.FizzBuzz.dll
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\Akvelon.FizzBuzz.pdb
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\Akvelon.FizzBuzz.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Akvelon.FizzBuzz\Akvelon.FizzBuzz\obj\Debug\net10.0\ref\Akvelon.FizzBuzz.dll

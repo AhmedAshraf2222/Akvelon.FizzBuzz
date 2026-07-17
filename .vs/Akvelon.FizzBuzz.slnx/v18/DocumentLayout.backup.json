@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7173B6AD-74EC-4D2B-AAB7-0138020EE070}|Akvelon.FizzBuzz.Tests\\Akvelon.FizzBuzz.Tests.csproj|c:\\users\\lenovo\\desktop\\akvelon.fizzbuzz\\akvelon.fizzbuzz.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7173B6AD-74EC-4D2B-AAB7-0138020EE070}|Akvelon.FizzBuzz.Tests\\Akvelon.FizzBuzz.Tests.csproj|solutionrelative:akvelon.fizzbuzz.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D86D06-EF7A-4A29-B27A-E1DA8695D28C}|Akvelon.FizzBuzz\\Akvelon.FizzBuzz.csproj|c:\\users\\lenovo\\desktop\\akvelon.fizzbuzz\\akvelon.fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D86D06-EF7A-4A29-B27A-E1DA8695D28C}|Akvelon.FizzBuzz\\Akvelon.FizzBuzz.csproj|solutionrelative:akvelon.fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D86D06-EF7A-4A29-B27A-E1DA8695D28C}|Akvelon.FizzBuzz\\Akvelon.FizzBuzz.csproj|c:\\users\\lenovo\\desktop\\akvelon.fizzbuzz\\akvelon.fizzbuzz\\fizzbuzzresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D86D06-EF7A-4A29-B27A-E1DA8695D28C}|Akvelon.FizzBuzz\\Akvelon.FizzBuzz.csproj|solutionrelative:akvelon.fizzbuzz\\fizzbuzzresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D86D06-EF7A-4A29-B27A-E1DA8695D28C}|Akvelon.FizzBuzz\\Akvelon.FizzBuzz.csproj|c:\\users\\lenovo\\desktop\\akvelon.fizzbuzz\\akvelon.fizzbuzz\\fizzbuzzdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D86D06-EF7A-4A29-B27A-E1DA8695D28C}|Akvelon.FizzBuzz\\Akvelon.FizzBuzz.csproj|solutionrelative:akvelon.fizzbuzz\\fizzbuzzdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuzzResult.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz\\FizzBuzzResult.cs",
+              "RelativeDocumentMoniker": "Akvelon.FizzBuzz\\FizzBuzzResult.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz\\FizzBuzzResult.cs",
+              "RelativeToolTip": "Akvelon.FizzBuzz\\FizzBuzzResult.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T21:06:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FizzBuzzDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz\\FizzBuzzDetector.cs",
+              "RelativeDocumentMoniker": "Akvelon.FizzBuzz\\FizzBuzzDetector.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz\\FizzBuzzDetector.cs",
+              "RelativeToolTip": "Akvelon.FizzBuzz\\FizzBuzzDetector.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv2kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T21:05:47.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Akvelon.FizzBuzz.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Akvelon.FizzBuzz.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv1YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T21:05:05.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "Akvelon.FizzBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Akvelon.FizzBuzz\\Akvelon.FizzBuzz\\Program.cs",
+              "RelativeToolTip": "Akvelon.FizzBuzz\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T21:04:32.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
